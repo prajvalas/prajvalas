@@ -21,8 +21,8 @@
 
   <p align="left">
     <a href="https://github.com/prajvalas">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=prajvalas&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20GitHub%20Statistics"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajvalas&langs_count=6&hide_border=true&custom_title=My%20Programming%20Languages"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=prajvalas&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20GitHub%20Statistics"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajvalas&langs_count=6&hide_border=true&custom_title=My%20Programming%20Languages"/>
     </a>
   </p>
 ---
