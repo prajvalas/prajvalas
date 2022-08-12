@@ -21,7 +21,7 @@
 
   <p align="left">
     <a href="https://github.com/prajvalas">
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prajvalas&show_icons=true&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prajvalas&show_icons=true&include_all_commits=true"/>
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajvalas&layout=compact&langs_count=8"/>
     </a>
   </p>
