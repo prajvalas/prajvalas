@@ -25,7 +25,6 @@
       <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajvalas&layout=compact&langs_count=8&theme=algolia"/>
     </a>
   </p>
----
 
 <!-- ### 🧑🏻‍💻 Leetcode Statistics -->
 
