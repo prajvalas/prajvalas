@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love solving sudokus and playing badminton
 - 📧 Reach me at <a href="mailto:prajvala.sonawane@gmail.com">prajvala.sonawane@gmail.com</a>
 
-### 🔗 Connect with me:
+### 🔗 Connect with me
 
 <p align="left">
 <a href="mailto:prajvala.sonawane@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
