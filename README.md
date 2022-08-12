@@ -17,9 +17,6 @@
 <a href="https://discordapp.com/users/Prajvala#3530"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<br />
-<br />
-
 ### 📕 GitHub Statistics
 
   <p align="left">
