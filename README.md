@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything
 - 🎓 I'm a graduate student at the [State University of New York at Buffalo](https://www.buffalo.edu/)
 - 🧑🏻‍💻 I have previously worked at [Microsoft](https://www.microsoft.com/en-in/philanthropies/igd.aspx)
-- 🥅 Moto: Learn learn learn and never stop learning
+- 🥅 Motto: Learn learn learn and never stop learning
 - ⚡ Fun fact: I love solving sudokus and playing badminton
 - 📧 Reach me at <a href="mailto:prajvala.sonawane@gmail.com">prajvala.sonawane@gmail.com</a>
 
