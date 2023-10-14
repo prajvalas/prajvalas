@@ -1,8 +1,8 @@
 # Hello there, I'm Prajvala 👋 
 
 - 🌱 I’m currently learning everything
-- 🎓 I'm a graduate student at the [State University of New York at Buffalo](https://www.buffalo.edu/)
-- 🧑🏻‍💻 I have previously worked at [Microsoft](https://www.microsoft.com/en-in/philanthropies/igd.aspx)
+- 🎓 I'm a graduate from the [State University of New York at Buffalo](https://www.buffalo.edu/)
+- 🧑🏻‍💻 I currently work as a Software Engineer and have previously worked at [Microsoft](https://www.microsoft.com/en-in/philanthropies/igd.aspx)
 - 🥅 Motto: Learn learn learn and never stop learning
 - ⚡ Fun fact: I love solving sudokus and playing badminton
 - 📧 Reach me at <a href="mailto:prajvala.sonawane@gmail.com">prajvala.sonawane@gmail.com</a>
